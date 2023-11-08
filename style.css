@@ -64,7 +64,7 @@ font-weight: 800;
 }
 
 .grid .square:hover {
-  background-color: var(--darkerBeige);
+  background-color: #A7C7E7
 }
 
 .buttons{
